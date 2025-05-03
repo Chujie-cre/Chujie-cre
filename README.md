@@ -1,7 +1,7 @@
-# <div align="center">👋 你好，我是 CJKing</div>
+# <div align="center">欢迎光临，这里是雏结</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=全栈开发工程师;热爱编程与创新;永远保持学习的激情&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=全栈开发;摄影;音乐;篮球;动画制作&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <div align="center">
@@ -44,13 +44,13 @@
 ## 🌐 社交媒体
 
 <div align="center">
-  <a href="你的博客链接">
+  <a href="https://king.kingdomofown.cn">
     <img src="https://img.shields.io/badge/博客-0077B5?style=for-the-badge&logo=rss&logoColor=white" />
   </a>
-  <a href="你的邮箱链接">
+  <a href="#">
     <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="你的掘金链接">
+  <a href="#">
     <img src="https://img.shields.io/badge/掘金-1DA1F2?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </div>
@@ -58,7 +58,8 @@
 
 ## 👨‍💻 精选项目
 
-<div align="center">
+
+<!-- <div align="center">
   <a href="https://github.com/ChuJie-Cre/项目1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChuJie-Cre&repo=项目1&theme=radical" />
   </a>
@@ -66,6 +67,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChuJie-Cre&repo=项目2&theme=radical" />
   </a>
 </div>
+-->
 
 
 
