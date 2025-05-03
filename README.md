@@ -29,6 +29,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChuJie-Cre&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+
+<!--
 ## 🏆 成就
 
 <div align="center">
@@ -40,6 +42,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChuJie-Cre&theme=radical" alt="ChuJie-Cre" />
 </div>
+-->
 
 ## 🌐 社交媒体
 
