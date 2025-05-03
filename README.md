@@ -9,8 +9,9 @@
 </div>
 
 
-## 🚀 技术栈
-
+<!--
+统计
+-->
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -22,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## 📊 GitHub统计
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChuJie-Cre&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -30,21 +31,10 @@
 </div>
 
 
+
 <!--
-## 🏆 成就
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChuJie-Cre&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1">
-</div>
-
-## 📈 贡献图表
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChuJie-Cre&theme=radical" alt="ChuJie-Cre" />
-</div>
+社交媒体
 -->
-
-## 🌐 社交媒体
 
 <div align="center">
   <a href="https://king.kingdomofown.cn">
@@ -68,7 +58,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 </div>
 
-## 🌌 我的代码宇宙
+<!--
+代码宇宙
+-->
 
 <div align="center">
   <a href="https://github.com/ChuJie-Cre">
@@ -88,7 +80,9 @@
   </picture>
 </div>
 
-## 🎵 编程交响曲 - 代码旋律可视化
+<!--
+可视化
+-->
 
 <div align="center">
   <a href="https://sketchfab.com/3d-models/source-code-heartbeat-3c981a3742b84aad9f73b0f4de31698d">
