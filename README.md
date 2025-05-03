@@ -58,11 +58,6 @@
   </a>
 </div>
 
-
-
-
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChuJie-Cre&color=blueviolet&style=for-the-badge">
   <img src="https://img.shields.io/github/followers/ChuJie-Cre?style=for-the-badge&color=blueviolet">
@@ -71,4 +66,58 @@
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
+</div>
+
+## 🌌 我的代码宇宙
+
+<div align="center">
+  <a href="https://github.com/ChuJie-Cre">
+    <img src="https://github.com/ChuJie-Cre/ChuJie-Cre/blob/output/github-contribution-grid-snake-dark.svg" alt="代码宇宙" style="width:100%">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChuJie-Cre/ChuJie-Cre/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChuJie-Cre/ChuJie-Cre/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChuJie-Cre/ChuJie-Cre/output/github-contribution-grid-snake.svg" />
+    <img alt="我的代码足迹" src="https://raw.githubusercontent.com/ChuJie-Cre/ChuJie-Cre/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+## 🎵 编程交响曲 - 代码旋律可视化
+
+<div align="center">
+  <a href="https://sketchfab.com/3d-models/source-code-heartbeat-3c981a3742b84aad9f73b0f4de31698d">
+    <img src="https://github.com/ChuJie-Cre/ChuJie-Cre/assets/code-heartbeat.gif" alt="代码心跳" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+  <table style="border: none; background: none;">
+    <tr style="border: none; background: none;">
+      <td style="border: none; background: none; width: 33%;" align="center">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jlw25mfcjaueqrqtbrywo4v57a&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="256" />
+      </td>
+      <td style="border: none; background: none; width: 33%;" align="center">
+        <img src="https://github.com/ChuJie-Cre/ChuJie-Cre/assets/matrix-code.gif" alt="代码矩阵" width="256" />
+      </td>
+      <td style="border: none; background: none; width: 33%;" align="center">
+        <img src="https://github.com/ChuJie-Cre/ChuJie-Cre/assets/audio-wave.gif" alt="音频可视化" width="256" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <a href="#" onClick="alert('代码的声音正在播放...')">
+    <img src="https://img.shields.io/badge/点击收听-代码的声音-1DB954?style=for-the-badge&logo=applemusic&logoColor=white" alt="播放代码声音" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/ChuJie-Cre/ChuJie-Cre/assets/code-spectrum.svg" alt="代码频谱" width="100%" />
 </div>
