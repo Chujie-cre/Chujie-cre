@@ -8,16 +8,6 @@
   <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=ChuJie-Cre&data=followers,repositories,stars,commits&theme=radical">
 </div>
 
-## 🧠 关于我
-
-```javascript
-const CJKing = {
-  技能: ["Web开发", "移动应用", "云服务", "人工智能"],
-  语言: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-  工具: ["React", "Vue", "Node.js", "Flask", "Docker"],
-  挑战: "我正在通过开源项目不断提升自己的技术能力"
-};
-```
 
 ## 🚀 技术栈
 
@@ -65,11 +55,6 @@ const CJKing = {
   </a>
 </div>
 
-## 📊 本周编码时间
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChuJie-Cre&theme=radical">
-</div>
 
 ## 👨‍💻 精选项目
 
@@ -82,14 +67,7 @@ const CJKing = {
   </a>
 </div>
 
-## 🎯 近期目标
 
-- 📚 深入学习人工智能和机器学习
-- 💻 参与更多开源项目
-- 🌱 开发自己的开源框架
-- 📝 分享更多技术博客
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ChuJie-Cre&color=blueviolet&style=for-the-badge">
