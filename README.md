@@ -1,9 +1,8 @@
-# <div align="center">
-#  ⚡️ 【 ℭ𝔥𝔲𝔍𝔦𝔢 】 ⚡️
-# ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-# ༺ 𝓒𝓸𝓭𝓮 𝓐𝓻𝓽𝓲𝓼𝓽 ⋆ 𝕋𝕖𝕔𝕙 𝕎𝕚𝕫𝕒𝕣𝕕 ⋆ ℂ𝕣𝕖𝕒𝕥𝕠𝕣 ༻
-# ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
-</div>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F7A5C9&center=true&vCenter=true&random=false&width=600&height=70&lines=%E2%9C%A8+%E9%9B%8F%E7%BB%93%E7%9A%84%E5%B0%8F%E5%A4%A9%E5%9C%B0+%E2%9C%A8" alt="Welcome to CJKingdom" />
+  </a>
+</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=全栈开发;摄影;音乐;篮球;动画制作&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&speed=175">
