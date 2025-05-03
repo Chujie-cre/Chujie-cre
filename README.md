@@ -59,39 +59,50 @@
 
 
 <div align="center">
+  <h2>🌌 我的技术宇宙 🌌</h2>
   
 ```mermaid
+%%{init: {
+  'theme': 'base', 
+  'themeVariables': {
+    'primaryColor': '#ff79c6',
+    'primaryTextColor': '#fff',
+    'primaryBorderColor': '#bd93f9',
+    'lineColor': '#ff79c6',
+    'secondaryColor': '#6272a4',
+    'tertiaryColor': '#44475a'
+  }
+}}%%
 mindmap
-  root((雏结的技术宇宙))
-    前端开发
-      JavaScript/TypeScript
-        React
-        Vue
-        微信小程序
-      CSS/SCSS
-        动效设计
-        响应式布局
-    后端开发
-      Node.js
-      Python
-      数据库
-        MySQL
-        MongoDB
-    DevOps
-      Docker
-      CI/CD
-      云服务
-    创意编程
-      数据可视化
-      生成艺术
-      交互设计
-    人工智能
-      机器学习
-      计算机视觉
+  root((🚀 雏结的技术宇宙))
+    前端开发 👨‍💻
+      JavaScript/TypeScript ⚡
+        React ⚛️
+        Vue 🖖
+        微信小程序 📱
+      CSS/SCSS 🎨
+        动效设计 ✨
+        响应式布局 📐
+    后端开发 🛠️
+      Node.js 🟢
+      Python 🐍
+      数据库 💾
+        MySQL 🐬
+        MongoDB 🍃
+    DevOps 🔄
+      Docker 🐳
+      CI/CD 🔁
+      云服务 ☁️
+    创意编程 🎭
+      数据可视化 📊
+      生成艺术 🎨
+      交互设计 🖱️
+    人工智能 🧠
+      机器学习 📈
+      计算机视觉 👁️
 ```
 
 </div>
-
 
 
 
