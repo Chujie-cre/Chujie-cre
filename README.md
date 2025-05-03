@@ -62,15 +62,12 @@
 ## 👨‍💻 精选项目
 
 
-<!-- <div align="center">
-  <a href="https://github.com/ChuJie-Cre/项目1">
+ <div align="center">
+  <a href="https://github.com/ChuJie-Cre/IoT-platform-XW">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChuJie-Cre&repo=项目1&theme=radical" />
   </a>
-  <a href="https://github.com/ChuJie-Cre/项目2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChuJie-Cre&repo=项目2&theme=radical" />
-  </a>
 </div>
--->
+
 
 
 
