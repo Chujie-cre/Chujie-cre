@@ -1,6 +1,8 @@
 <!-- 👤 圆形头像 -->
 <div align="center">
-  <img src="./me.jpg" width="150" height="150" style="border-radius: 50%;" alt="雏结" />
+  <a href="https://github.com/Chujie-cre">
+    <img src="https://github.com/Chujie-cre.png" width="150" height="150" alt="雏结" />
+  </a>
 </div>
 
 <br>
