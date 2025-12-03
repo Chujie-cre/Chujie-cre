@@ -5,9 +5,13 @@
 
 <br>
 
-<!-- 🌟 头部横幅 - 简笔画炫酷风 -->
+<!-- 🌟 头部横幅 - 简笔画风 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFECD2,100:FCB69F&height=180&section=header&text=✨%20It's%20me%20,%20CJKing%20雏结%20✨&fontSize=45&fontColor=333333&animation=blinking&fontAlignY=50&stroke=FF6B6B&strokeWidth=2&desc=✏️%20手绘人生%20·%20代码艺术家%20✏️&descAlignY=75&descSize=16&descColor=666666" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=60&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&height=80&lines=It's+me+,+CJKing+✏️+雏结" alt="Typing SVG" />
+  </a>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=400&size=25&duration=2000&pause=500&color=666666&center=true&vCenter=true&width=400&height=35&lines=Full+Stack+Developer+|+Creator" alt="Typing SVG" />
 </div>
 
 <!-- 🐻 bear1 装饰 -->
