@@ -60,17 +60,17 @@
     </td>
     <td width="50%" valign="top">
       <div align="left">
-        👋 <b>嘿！我是雏结</b> - 一个对技术充满热情的全栈开发者
+        👨🏻‍💼 <b>你好！我是雏结</b> 一位全能的路人甲
         <br><br>
-        🌏 来自 <b>中国</b> CN
+        🌏 来自 <b>China</b> CN
         <br><br>
-        ❤️ 热爱 <b>全栈开发</b> · <b>摄影</b> · <b>音乐</b> · <b>篮球</b>
+        ❤️ 热爱 <b>旅游🎮</b> · <b>摄影📷</b> · <b>音乐🎵</b> · <b>琴棋书画🎨</b> <b>健身🏋🏻‍♂️</b> <b>篮球🏀</b>
         <br><br>
-        🌱 正在学习 <b>AI/ML</b> · <b>云原生</b> · <b>3D Animation</b>
+        🌱 分享 <b>我的些许开源技术</b> · <b>摄影经验</b> · <b>个人想法</b>
         <br><br>
-        💡 人生信条: <i>"保持饥饿，保持愚蠢"</i>
+        💡 I wanna say: <i>"Keep reflect, keep grow."</i>
         <br><br>
-        🎨 趣闻: 我能用代码创造艺术
+        🎨 如果你也是有趣的灵魂: <b>我真希望能跟你畅聊一个晚自习</b>
       </div>
     </td>
   </tr>
@@ -166,25 +166,25 @@
 <!-- 社交链接 -->
 <div align="center">
   <a href="https://king.kingdomofown.cn" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_个人博客-FF5722?style=for-the-badge" alt="Blog"/>
+    <img src="https://img.shields.io/badge/个人博客-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog"/>
   </a>
   <a href="mailto:CJKingRunning@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_邮箱联系-EA4335?style=for-the-badge" alt="Email"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/📝_掘金-007FFF?style=for-the-badge" alt="掘金"/>
+    <img src="https://img.shields.io/badge/语雀-36B37E?style=for-the-badge&logo=yuque&logoColor=white" alt="语雀"/>
   </a>
 </div>
 
 <div align="center">
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/💡_知乎-0084FF?style=for-the-badge" alt="知乎"/>
+    <img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="抖音"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/📺_B站-00A1D6?style=for-the-badge" alt="Bilibili"/>
+    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
 
