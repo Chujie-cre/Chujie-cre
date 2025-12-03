@@ -91,25 +91,45 @@
 <!-- 🛠️ 开发工具与创意 -->
 <h3 align="center">🛠️ 开发工具与创意</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,neovim,linux,bash,figma,xd,ps,ai,ae,pr,blender&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,clion,androidstudio,git,github,gitlab,vim,neovim,linux,bash,mysql,figma,xd,ps,ai,ae,pr,blender,unity&perline=10&theme=dark" />
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/HBuilder_X-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Navicat-005B8E?style=for-the-badge&logo=navicat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apifox-F44336?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xmind-EF5350?style=for-the-badge&logo=xmind&logoColor=white" />
+  <img src="https://img.shields.io/badge/微信开发者工具-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Keil_uVision-00599C?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/剪映-000000?style=for-the-badge&logoColor=white" />
 </div>
 
 <br>
 
 <!-- 💪 技能熟练度 -->
 <div align="center">
-  <h3>💪 技能熟练度</h3>
+  <h3>💪 能力等级锐评</h3>
 </div>
 
 <div align="center">
 
 | 技能 | 熟练度 |
 |:---:|:---:|
-| JavaScript/TypeScript | ![95%](https://geps.dev/progress/95?successColor=F7DF1E) 专家 |
-| React/Vue/Next.js | ![90%](https://geps.dev/progress/90?successColor=61DAFB) 高深 |
-| Node.js/Python | ![88%](https://geps.dev/progress/88?successColor=339933) 高深 |
-| Docker/K8s | ![75%](https://geps.dev/progress/75?successColor=2496ED) 熟练 |
-| AI/ML | ![60%](https://geps.dev/progress/60?successColor=FF6F00) 学习 |
+| C/C++/ESP-IDF嵌入式开发 | ![90%](https://geps.dev/progress/95?successColor=F7DF1E) 夯 |
+| 摄影 | ![90%](https://geps.dev/progress/95?successColor=F7DF1E) 夯 |
+| React/Vue/Next.js前端开发 | ![85%](https://geps.dev/progress/90?successColor=61DAFB) 顶尖 |
+| AI/MCP/Agent开发 | ![85%](https://geps.dev/progress/90?successColor=61DAFB) 顶尖 |
+| 产品设计/市场调研/UI设计 | ![80%](https://geps.dev/progress/88?successColor=339933) 人上人 |
+| 音乐 | ![80%](https://geps.dev/progress/88?successColor=339933) 人上人 |
+| Express.js/Django/MySQL后端开发 | ![65%](https://geps.dev/progress/75?successColor=2496ED) npc |
+| 社交 | ![10%](https://geps.dev/progress/60?successColor=FF6F00) 拉完了 |
 
 </div>
 
@@ -133,7 +153,7 @@
 
 <!-- 🌐 联系我 -->
 <h2 align="center">
-  🔗 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF91A4&center=true&vCenter=true&width=280&height=45&lines=Connect+With+Me" alt="Connect" /> 🔗
+  🔗 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF91A4&center=true&vCenter=true&width=400&height=45&lines=Connect+With+Me" alt="Connect" /> 🔗
 </h2>
 
 <!-- 社交动画 -->
@@ -148,7 +168,7 @@
   <a href="https://king.kingdomofown.cn" target="_blank">
     <img src="https://img.shields.io/badge/🌐_个人博客-FF5722?style=for-the-badge" alt="Blog"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:CJKingRunning@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/📧_邮箱联系-EA4335?style=for-the-badge" alt="Email"/>
   </a>
   <a href="#" target="_blank">
