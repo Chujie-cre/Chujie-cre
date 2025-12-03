@@ -169,21 +169,21 @@
     <img src="https://img.shields.io/badge/个人博客-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog"/>
   </a>
   <a href="mailto:CJKingRunning@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+    <img src="./outlook.svg" height="28" alt="Outlook"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/语雀-36B37E?style=for-the-badge&logo=yuque&logoColor=white" alt="语雀"/>
+  <a href="https://www.yuque.com/chujie-ic0gs" target="_blank">
+    <img src="https://img.shields.io/badge/语雀博客分享-4DBA87?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=&logoColor=white" alt="语雀"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="#" target="_blank">
+  <a href="https://v.douyin.com/Pnc0gaKbwhY/ 1@1.com :7pm" target="_blank">
     <img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="抖音"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://space.bilibili.com/1432594578?spm_id_from=333.1007.0.0" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.youtube.com/@%E9%9B%8F%E7%BB%93" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
