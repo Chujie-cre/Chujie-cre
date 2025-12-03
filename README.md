@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=60&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&height=80&lines=It's+me+,+CJKing+👑+雏结" alt="Typing SVG" />
   </a>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=400&size=25&duration=2000&pause=500&color=666666&center=true&vCenter=true&width=400&height=35&lines=Full+Stack+Developer+|+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=400&size=25&duration=2000&pause=500&color=666666&center=true&vCenter=true&width=400&height=35&lines=Here+I+will+introduce+myself+and+share+with+you+all+that+I+have+accumulated" alt="Typing SVG" />
 </div>
 
 <!-- 🐻 bear1 装饰 -->
@@ -26,11 +26,11 @@
   </a>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=⚡+全栈开发者+|+创意内容创作者+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=⚡+嵌入式开发+|+产品经理+|+宇宙创意Maker+|+全栈开发⚡" alt="Typing SVG" />
   </a>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=40&lines=🎯+Turning+Coffee+into+Code+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=40&lines=🔰+Turning+Originality+and+Magic+into+Code+🎨" alt="Typing SVG" />
   </a>
 </div>
 
@@ -117,7 +117,7 @@
 
 <!-- 🔥 GitHub 统计 -->
 <h2 align="center">
-  🔥 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF91A4&center=true&vCenter=true&width=280&height=45&lines=GitHub+Stats" alt="GitHub Stats" /> 🔥
+  🔥 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF91A4&center=true&vCenter=true&width=280&height=45&lines=GitHub+Stats" alt="GitHub Stars" /> 🔥
 </h2>
 
 <!-- 贡献蛇图动画 -->
