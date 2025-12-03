@@ -1,14 +1,21 @@
 <!-- 👤 圆形头像 -->
 <div align="center">
-  <img src="./me.png" width="150" height="150" alt="雏结" />
+  <img src="./me.png" width="500" height="500" alt="雏结" />
 </div>
 
 <br>
 
-<!-- 🌟 头部横幅 -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=👑%20雏结%20👑&fontSize=70&fontColor=FF91A4&animation=twinkling&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Creator%20|%20Dreamer%20🌟&descAlignY=55&descSize=20&descAlign=50&descColor=333333">
-</div>
+<!-- 🌟 头部横幅 + bear1 -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="15%" align="center">
+      <img src="./bear1.png" width="120" alt="bear" />
+    </td>
+    <td width="85%">
+      <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=👑%20雏结%20👑&fontSize=70&fontColor=FF91A4&animation=twinkling&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Creator%20|%20Dreamer%20🌟&descAlignY=55&descSize=20&descAlign=50&descColor=333333">
+    </td>
+  </tr>
+</table>
 
 <!-- ⌨️ 打字机效果 - 彩虹渐变 -->
 <div align="center">
