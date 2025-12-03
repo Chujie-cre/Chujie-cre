@@ -5,9 +5,9 @@
 
 <br>
 
-<!-- 🌟 头部横幅 - 简笔画风 -->
+<!-- 🌟 头部横幅 - 简笔画炫酷风 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=It's%20me%20,%20CJKing%20✏️%20雏结&fontSize=50&fontColor=333333&animation=scaleIn&fontAlignY=50&stroke=333333&strokeWidth=1" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFECD2,100:FCB69F&height=180&section=header&text=✨%20It's%20me%20,%20CJKing%20雏结%20✨&fontSize=45&fontColor=333333&animation=blinking&fontAlignY=50&stroke=FF6B6B&strokeWidth=2&desc=✏️%20手绘人生%20·%20代码艺术家%20✏️&descAlignY=75&descSize=16&descColor=666666" width="100%">
 </div>
 
 <!-- 🐻 bear1 装饰 -->
