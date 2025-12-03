@@ -5,9 +5,9 @@
 
 <br>
 
-<!-- 🌟 头部横幅 - 动画风 -->
+<!-- 🌟 头部横幅 - 简笔画风 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=It's%20me%20,%20CJKing%20👑%20雏结&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Creator%20|%20Dreamer&descAlignY=55&descSize=18" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=It's%20me%20,%20CJKing%20✏️%20雏结&fontSize=50&fontColor=333333&animation=scaleIn&fontAlignY=50&stroke=333333&strokeWidth=1" width="100%">
 </div>
 
 <!-- 🐻 bear1 装饰 -->
@@ -33,7 +33,7 @@
 <br><br><br>
 
 <!-- 🌈 彩虹分隔线 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%">
+<img src="./分割线.gif" width="100%">
 
 <br>
 
