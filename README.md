@@ -5,11 +5,15 @@
 
 <br>
 
-<!-- 🌟 头部横幅 + bear1 -->
-<p align="center">
-  <img src="./bear1.png" width="120" alt="bear" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=👑%20雏结%20👑&fontSize=70&fontColor=FF91A4&animation=twinkling&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Creator%20|%20Dreamer%20🌟&descAlignY=55&descSize=20&descAlign=50&descColor=333333" width="80%">
-</p>
+<!-- 🌟 头部横幅 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=👑%20雏结%20👑&fontSize=70&fontColor=FF91A4&animation=twinkling&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Creator%20|%20Dreamer%20🌟&descAlignY=55&descSize=20&descAlign=50&descColor=333333" width="100%">
+</div>
+
+<!-- 🐻 bear1 装饰 -->
+<div align="center">
+  <img src="./bear1.png" width="150" alt="bear" />
+</div>
 
 <!-- ⌨️ 打字机效果 - 彩虹渐变 -->
 <div align="center">
@@ -29,7 +33,7 @@
 <br><br><br>
 
 <!-- 🌈 彩虹分隔线 -->
-<img src="https://raw.githubusercontent.com/AnderMendworkshard/AnderMendworkshard/main/border.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27&height=3" width="100%">
 
 <br>
 
