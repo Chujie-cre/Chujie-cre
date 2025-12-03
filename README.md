@@ -8,7 +8,7 @@
 <!-- 🌟 头部横幅 - 简笔画风 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=60&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&height=80&lines=It's+me+,+CJKing+✏️+雏结" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=60&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&height=80&lines=It's+me+,+CJKing+👑+雏结" alt="Typing SVG" />
   </a>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=400&size=25&duration=2000&pause=500&color=666666&center=true&vCenter=true&width=400&height=35&lines=Full+Stack+Developer+|+Creator" alt="Typing SVG" />
@@ -38,6 +38,11 @@
 
 <!-- 🌈 彩虹分隔线 -->
 <img src="./分割线.gif" width="100%">
+
+<!-- 🎬 Title动画 -->
+<div align="center">
+  <img src="./Title.gif" width="100%" alt="Title" />
+</div>
 
 <br>
 
