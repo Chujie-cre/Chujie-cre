@@ -5,9 +5,9 @@
 
 <br>
 
-<!-- 🌟 头部横幅 -->
+<!-- 🌟 头部横幅 - 动画风 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=👑%20雏结%20👑&fontSize=70&fontColor=FF91A4&animation=twinkling&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Creator%20|%20Dreamer%20🌟&descAlignY=55&descSize=20&descAlign=50&descColor=333333" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=It's%20me%20,%20CJKing%20👑%20雏结&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20|%20Creator%20|%20Dreamer&descAlignY=55&descSize=18" width="100%">
 </div>
 
 <!-- 🐻 bear1 装饰 -->
@@ -33,7 +33,7 @@
 <br><br><br>
 
 <!-- 🌈 彩虹分隔线 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27&height=3" width="100%">
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%">
 
 <br>
 
