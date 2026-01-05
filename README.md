@@ -201,7 +201,7 @@
 
 <!-- 底部logo -->
 <div align="center">
-  <img src="CJKing_Logo.png" width="100%">
+  <img src="CJKing_Logo.png" width="300" max-height="100">
 </div>
 
 <!-- 🌊 底部 -->
