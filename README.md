@@ -55,7 +55,7 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90%" />
+        <img src="myself.gif" width="90%" />
       </div>
     </td>
     <td width="50%" valign="top">
@@ -78,7 +78,7 @@
 
 <!-- 动态分隔 -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%">
+  <img src="cat.gif" width="100%">
 </div>
 
 <!-- GitHub 活动统计 -->
@@ -198,6 +198,11 @@
 </div>
 
 <br>
+
+<!-- 底部logo -->
+<div align="center">
+  <img src="CJKing_Logo.png" width="100%">
+</div>
 
 <!-- 🌊 底部 -->
 <div align="center">
